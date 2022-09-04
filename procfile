@@ -1,1 +1,1 @@
-web: gunicorn exercise0.wsgi --log-file -
+web: gunicorn akmalee.wsgi --log-file -
